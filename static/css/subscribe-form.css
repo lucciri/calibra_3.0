@@ -1,0 +1,136 @@
+.hero-form {
+    margin: 0px 12px 48px 12px;
+    background-color: #f9f9f9;
+    box-shadow: 1px 1px 10px 0 rgba(58, 58, 58, 0.1), inset 0 8px 0 0 #0095db;
+}
+
+.hero-form-heading {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: #3a3a3a;
+}
+
+.svb-chevron {
+    position: relative;
+    top: 0px;
+    left: 15px;
+    width: 25px;
+    height: 47px;
+}
+
+
+.hero-form-submit {
+    padding: 32px;
+    overflow: visible;
+}
+
+.hero-form-submitted {
+    display: flex;
+    align-items: center;
+    padding: 48px 32px;
+}
+
+.hero-form-submitted-title {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.75rem;
+    line-height: 2rem;
+    font-weight: bold;
+    flex: none;
+}
+
+.hero-form-submitted-body {
+    padding: 15px 0px 23px;
+    flex: none;
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+}
+
+.hero-form-submitted {
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 32px 12px 24px 12px;
+}
+
+@media all and (min-width: 64em) {
+
+    .hero-form {
+        min-height: 192px;
+        margin: 48px 0px;
+    }
+
+    .hero-form-submitted-title {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    .hero-form-submitted {
+        flex-direction: row;
+        align-items: center;
+        padding: 48px 32px;
+    }
+
+    .hero-form-submitted-title {
+        flex: 0 0 286px;
+    }
+
+    .hero-form-submitted-body {
+        padding: 0px 39px 0px 10px;
+        flex: 1;
+    }
+
+    .hero-form-heading {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+}
+
+/* min form*/
+.hero-form-min {
+    margin: 48px 12px 48px 12px;
+    background-color: white;
+    box-shadow: 1px 1px 10px 0 rgba(58, 58, 58, 0.1), inset 0 8px 0 0 #0095db;
+}
+
+.hero-form-min-heading {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: #3a3a3a;
+}
+
+.hero-form-min-submit {
+    padding: 32px;
+}
+
+.hero-form-min-submitted {
+    display: flex;
+    align-items: center;
+    padding: 48px 32px;
+}
+
+.hero-form-min-submitted-title {
+    font-family: 'Inter', sans-serif;
+    font-size: 1.75rem;
+    line-height: 2rem;
+    font-weight: bold;
+    flex: none;
+}
+
+.hero-form-min-submitted-body {
+    padding: 15px 0px 23px;
+    flex: none;
+    font-size: 1.125rem;
+    line-height: 1.45;
+    width: 100%;
+}
+
+.hero-form-min-submitted {
+    display: none;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 32px 12px 24px 12px;
+}
