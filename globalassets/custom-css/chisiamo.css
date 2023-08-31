@@ -1,0 +1,90 @@
+.FG1_title,.faag_subtitle,.faag_title{text-transform:none}.FG1_title,.FG6 .largeData .oversized,.FG7 .faag_timeline dt,.faag_title{font-family:'Inter'}.animated{-webkit-animation-duration:.5s;animation-duration:.5s;-webkit-animation-fill-mode:both;animation-fill-mode:both}.animated.infinite{-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}@-webkit-keyframes fadeIn{from{opacity:0}to{opacity:1}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.fadeIn{-webkit-animation-name:fadeIn;animation-name:fadeIn}@-webkit-keyframes fadeInDown{from{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}@keyframes fadeInDown{from{opacity:0;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}.fadeInDown{-webkit-animation-name:fadeInDown;animation-name:fadeInDown}@-webkit-keyframes fadeInLeft{from{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}@keyframes fadeInLeft{from{opacity:0;-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}.fadeInLeft{-webkit-animation-name:fadeInLeft;animation-name:fadeInLeft}@-webkit-keyframes fadeInRight{from{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}@keyframes fadeInRight{from{opacity:0;-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}.fadeInRight{-webkit-animation-name:fadeInRight;animation-name:fadeInRight}@-webkit-keyframes fadeInUp{from{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}@keyframes fadeInUp{from{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}.fadeInUp{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}.faag .max-screen-width{max-width:1150px}.faag .padded-section{padding:3rem 0}@media (min-width:75em){.faag .padded-section{padding:2.6rem 2rem}}.faag_icon{background:#004b6c;border-radius:8px;height:95px;margin:0 auto;width:95px;padding:5px;box-sizing:border-box}.faag_title{color:#00a3e0;font-size:2.5em;text-align:left}.faag_subtitle--dark,.faag_title .darken,.faag_title--dark{color:#004b6c}@media (min-width:48em){.grid--rev{flex-direction:row-reverse}.faag_title{font-size:calc(2rem);line-height:1.1}}@media (min-width:75rem){.faag_title{font-size:calc(3rem);line-height:1.1}}.faag_subtitle{font-size:1.6875em;margin:0 0 1em}.faag_icon-list{display:flex;flex-wrap:wrap;list-style:none;margin:1em 0 0;padding:0}@media (min-width:75em){.faag_icon-list{margin:.5625rem 0 0 -1.55rem;max-width:28rem}}.faag_icon-list li{flex:1 0 50%;margin:0 0 2em;text-align:center;width:50%}.faag_icon-list a{color:#004b6c;display:inline-block;padding:0 1em;text-decoration:none}@media (min-width:48em){.faag_subtitle{font-size:calc(1.6875em * .8)}.faag_icon-list li{flex:1 0 33.33%;margin:0 0 .5em}.faag_icon-list a{padding:0}}.faag_icon-list a:hover{color:#00a3e0}.faag_icon-list a:hover .faag_icon{background:#00a3e0}.faag_icon-list p{margin:.75em 0}.FG8.padded-section{padding:3rem 0}@media (min-width:75em){.FG8.padded-section{padding:2.6rem 2rem 1.3rem}}.FG8 .grid__col{background:0 0}.FG8 a.C10_profile{background:#fff;margin:0}@media (min-width:48rem){.FG8 a.C10_profile{margin:0 0 1rem}}.FG8 a.C10_profile-light:hover{background:#00a3e0}.FG8 .C10_profile-details{padding:.75rem;font-size:.75em}.FG8_profile-photo img{display:block}.FG10.padded-section{padding:3rem 0}@media (min-width:75em){.FG10.padded-section{padding:2.6rem 2rem 5.75rem}}.FG10 .social-icons{list-style:none;margin:0;padding:0;text-align:center}.FG10 .social-icons li{display:inline-block;margin-right:1em}.FG10 .social-icons svg{height:1.5em;width:1.7em}.FG10 .social-icons a:hover svg *{fill:#00a3e0}.FG1_title{color:#004b6c;font-size:2.75em;margin-bottom:.26316em}@media (min-width:48em){.FG10 .social-icons li{margin-right:2em}.FG10 .social-icons svg{height:2.24em;width:2.56em}.FG1_title{font-size:calc(5.5em * .8);margin-top:1.25rem}}.FG1_content{font-size:1.25em}.FG2{background:#eee}@media (min-width:48em){.FG1_content{font-size:calc(2em * .8);margin:0 0 1.25rem}.FG1_content p{line-height:1.4}.FG2 .faag_title{padding-right:2rem}.FG2 .faag_icon-list p{padding:0 1rem}}.FG3.padded-section{padding:3rem 0}@media (min-width:75em){.FG3.padded-section{padding:5.6rem 2rem}}.FG3 .faag_icon-list{flex-wrap:nowrap;max-width:24rem}.FG3 .faag_icon-list li{flex:0 0 33.333%;position:relative}.FG3 .faag_icon-list li:not(:last-child):after{background:url(/globalassets/library/uploadedimages/content/about_us/newsroom/facts_at_a_glance/2018/icon-arrow.png) center center no-repeat;background-size:50%;content:'';display:inline-block;height:94px;width:30px;position:absolute;right:-3px;top:-9px}.FG3 .faag_icon-list li a{padding:0 1.375rem 0 0}.FG3 .faag_icon-list li a .faag_icon{height:75px;width:75px}.FG3 .asterix{color:#7d96aa;margin:2rem 0 0}.FG4{background:#eee}@media (min-width:48em){.FG3 .faag_icon-list{max-width:28rem}.FG3 .faag_icon-list li:not(:last-child):after{right:-14px;top:0}.FG3 .faag_icon-list li a{padding:0}.FG3 .faag_icon-list li a .faag_icon{height:94px;width:94px}.FG4 .faag_title{padding-right:2rem}}.FG4 .faag_service-list{list-style:none;font-size:1.25rem;font-weight:700;margin:1.25rem 0 0;padding:0}@media (min-width:75em){.FG4 .faag_service-list{font-size:calc(1.6875rem * .9)}.FG5_intro{width:70%}}.FG4 .faag_service-list li{line-height:1.4}.FG4 .faag_service-list li:not(:last-child){margin:0 0 1.75rem}.FG4 .faag_service-list a{border-bottom:1px solid #004b6c;color:#004b6c;display:block;text-decoration:none}.FG4 .faag_service-list a:hover{color:#00a3e0}.FG5_intro{font-size:1.6875rem}.FG5_intro .desktop-only{display:none;margin:0 0 1.5rem}@media (min-width:48em){.FG5 .faag_title{margin:0 0 1.5rem;}.FG5_intro{font-size:calc(1.6875rem * .9)}.FG5_intro .desktop-only{display:block}}.FG5_list{font-size:1.25rem;line-height:1.3;list-style:none;margin:0;padding:0}@media (min-width:75em){.FG5_list{font-size:calc(1.5625rem * .9);margin:-6.25rem 0 0;width:15.5rem}.FG5_location-list{display:none}}.FG5_list li{margin:0 0 1rem;position:relative;padding:0 0 0 2rem}@media (min-width:48em){.FG5_list li{margin:0 0 2rem}}.FG5_location-list{line-height:1.4;list-style:none;padding:0;margin:0 0 1.5rem}.FG5_cta,.FG6 .largeData p{line-height:1}.FG5_location-list a{color:#0095db;font-size:1.6875rem;font-weight:700;text-decoration:none}.FG5_cta,.FG5_location-list_link.is-active{color:#004b6c}.FG5_list_icon{border-radius:50%;display:inline-block;height:20px;position:absolute;left:0;top:.1875rem;width:20px}.FG5_list_icon--blue{background:#004b6c}.FG5_list_icon--orange{background:#faa51e}.FG5_map-wrapper{margin:0 0 3rem}@media (min-width:75em){.FG5_map-wrapper{margin:0}}.FG5_cta{background:#efdc0f;display:block;font-size:1rem;font-weight:700;max-width:16rem;padding:.9375rem 2.5rem .75rem 1.25rem;position:relative;text-decoration:none;text-transform:uppercase}@media (min-width:48em){.FG5_list_icon{top:.4375rem}.FG5_cta{display:inline-block;font-size:1rem;max-width:none}}.FG5_cta:hover:after{border-left:.8125rem solid #00a3e0}.FG5_cta:after{content:'';display:block;width:0;height:0;border-top:.5rem solid transparent;border-bottom:.5rem solid transparent;border-left:.5rem solid #004b6c;transform:rotate(45deg);position:absolute;right:1rem;top:1.0625rem}.FG7,.FG7_header{position:relative}@media (min-width:48em){.FG5_cta: after{border-top:.9375rem solid transparent;border-bottom:.9375rem solid transparent;border-left:.9375rem solid #004b6c;top:1.0625rem}}.FG6{background:#eee}.FG6 .largeData{color:#fff;font-size:1.875rem;font-weight:700;margin:0 0 1rem;padding:2rem 1.5rem}@media (min-width:75em){.FG6 .largeData{font-size:calc(2.625rem * .9);padding:3rem 2.75rem}}.FG6 .largeData .oversized{display:block;font-size:4.5rem}.FG6 .largeData--blue{background:#00a3e0}.FG6 .largeData--orange{background:#f9a41e}.FG6 .largeData--purple{background:#785f9e}.FG6 .asterix{color:#7d96aa;margin:-1rem 0 .25rem;padding:0 1rem}.FG7.padded-section{padding:3rem 0}.FG7 .faag_timeline{line-height:1;margin:1rem 0 0}@media (min-width:75em){.FG6 .largeData .oversized{font-size:calc(6.125rem * .9)}.FG7.padded-section{padding:5.6rem 2rem}.FG7 .faag_timeline{margin:0;padding-right:2rem}}@media (max-width:30em){.FG6 .largeData p{font-size:.55em}.FG6 .largeData .oversized{font-size:3.5em}}.FG7 .faag_timeline dt{border-bottom:1px solid #004b6c;color:#004b6c;font-size:1.875rem;font-weight:700;line-height:1.4;margin:0;padding:0}@media (min-width:75em){.FG7 .faag_timeline dt{font-size:font-size(2.3625rem)}}.FG7 .faag_timeline dd{font-size:1.25rem;line-height:1.4;margin:0;padding:0}.FG7 .faag_timeline dd:not(:last-of-type){margin:0 0 .875rem}.FG7_header .chevron{height:220px;margin:0;position:absolute;right:-.5rem;top:50%;transform:translateY(-50%);width:90px}.FG7_header .faag_title{max-width:14rem}@media (min-width:48em){.FG7_header .chevron{display:block;height:335px;margin:0 auto;position:static;transform:none;width:175px}.FG7_header .faag_title{max-width:none}}.FG9.padded-section{padding:3rem 0}@media (min-width:75em){.FG7 .faag_timeline dd{font-size:calc(1.6875rem * .9)}.FG7_header .chevron{height:447px;width:234px}.FG9.padded-section{padding:6.25rem 2rem 2.6rem}}.faag_chart-container{align-items:center;display:flex;position:relative;height:145px;margin:-1rem 0 0}.faag_chart-container+.faag_chart-container{margin:2rem 0}.faag_chart-container p{font-size:1.25rem;padding:0 0 0 9.5rem;max-width:20rem}@media (min-width:48em){.faag_chart-container p{padding:0 0 0 10.5rem;font-size:calc(1.4rem * .9)}}.faag_chart-container p strong{display:block;font-size:1.5625rem}.faag_chart-container p strong span{position:relative;top:-.375rem}.faag_chart{display:block;left:-4.6875rem;position:absolute;top:0}.FG5_map.is-inactive{display:none}@media (min-width:48em){.faag_chart-container p strong{font-size:calc(1.875rem * .9)}.FG5_map-wrapper{position:relative}.FG5_map.is-inactive{display:block}.FG5_map.is-inactive svg{max-height:170px;top:140px;width:30%}.FG5_map svg{position:absolute;left:0;top:0}}.FG5_map-zoom img{display:none}.FG5_map-zoom img.is-active{display:block;width:100%}@media (min-width:48em){.FG5_map-zoom img.is-active{position:absolute;top:0;right:0;width:60%}}.FG5_map-zoom .FG5_cta{display:none}@media (min-width:75em){.FG5_map-zoom .FG5_cta{display:inline-block}}.map_hover{fill:#faa51e}.map_hover:hover{cursor:pointer;fill:#0095db}[data-animate]{opacity:0}.FG5_map-wrapper .st4 {pointer-events: none}
+.addCTA {
+      margin-top:1rem;
+  }
+  @media (max-width: 768px) {
+    .addCTA {
+      margin-top:0;
+    }
+  }
+  .faag_fact {
+    padding: 36px 30px;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  .faag_fact a {
+    text-decoration: none !important;
+    width: 100%;
+    display: block;
+  }
+  .graphic {
+    color: #ffffff;
+    width: 494px;
+  }
+  .forbes {
+    background-color: #785faa;
+  }
+  .fortune {
+    background-color: #f8a534;
+  }
+  .sp {
+    background-color: #4baf46;
+  }
+  .bay-area {
+    background-color: #11b1ed;
+  }
+  .faag_fact .top {
+    font-size: 25.5px;
+    font-family: 'Inter';
+    padding-bottom: 24px;
+    color: #ffffff;
+  }
+  .faag_fact .bottom {
+    font-weight: 700;
+    font-family: 'Inter',garamond,georgia,serif;
+    text-transform: uppercase;
+    display: block;
+  }
+  .faag_fact .bottom .oversized,
+  .faag_fact .oversized {
+    display:inline-block;
+    text-transform: uppercase;
+    border-top: 2px solid #ffffff;
+    padding-top: 36px;
+    font-size: 4.5rem;
+    color: #ffffff;
+    letter-spacing: -2px;
+    line-height: 1rem;
+  }
+
+  @media (max-width: 768px) {
+    .faag_fact .bottom .oversized,
+      .faag_fact .oversized {
+        font-size: 3.5rem;
+      }
+  }
+  .faag_fact.fortune .bottom .oversized + .oversized {
+    border-top: none;
+  }
+  .faag_fact .bottom .small-words {
+    line-height: 33px;
+    border-top: none;
+    font-size: 33px;
+    display: inline-block;
+    text-transform: none;
+    color: #ffffff;
+  }
+  .faag_fact.bay-area .top {
+    border-bottom: 2px solid #ffffff;
+    display: inline-block;
+  }
+  .faag_fact.bay-area .bottom {
+    display: block;
+  }
+  .faag_fact.sp .bottom .oversized,
+  .faag_fact.bay-area .bottom .oversized {
+    border-top: none;
+  }
+  .faag_fact.sp .top {    
+    border-bottom: 2px solid #ffffff;
+  }

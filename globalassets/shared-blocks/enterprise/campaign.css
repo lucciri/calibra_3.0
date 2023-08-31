@@ -1,0 +1,43 @@
+section.x.campaign-hero .campaign-hero-outer {
+  height: auto;
+  width: 100%;
+  background-image: url("campaign-hero-mobile.svg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+background-color: #163046;
+}
+section.x.campaign-hero .campaign-headline {
+	color: #fff;
+  }
+@media all and (min-width: 48rem) {
+  section.x.campaign-hero .campaign-hero-outer {
+    background-size: 100%;
+  }
+  section.x.campaign-hero .campaign-headline {
+    max-width: 984px;
+	color: #fff;
+  }
+  section.x.campaign-hero .campaign-hero-wrap {
+    padding-top: 3.25rem;
+    padding-bottom: 3.25rem;
+  }
+}
+
+@media all and (min-width: 64rem) {
+  section.x.campaign-hero .campaign-hero-outer {
+    background-image: url("campaign-hero-desktop.svg");
+    background-position: bottom;
+  }
+  section.x.campaign-hero .campaign-hero-wrap {
+    padding-top: 4.5rem;
+    padding-bottom: 4.5rem;
+  }
+}
+
+@media all and (min-width: 90rem) {
+  section.x.campaign-hero .campaign-hero-wrap {
+    padding-top: 8.75rem;
+    padding-bottom: 8.75rem;
+  }
+}
