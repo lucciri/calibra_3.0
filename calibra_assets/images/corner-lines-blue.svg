@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>corner-lines</title>
+    <desc>Created with Sketch.</desc>
+    <g id="v1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="R2---des-4.0---Brand-Landing-Page-Desktop" transform="translate(-346.000000, -3192.000000)" fill="#007db8">
+            <g id="products" transform="translate(100.000000, 2636.000000)">
+                <g id="product-cards" transform="translate(0.000000, 268.000000)">
+                    <g id="1">
+                        <path d="M285.785,288 L285.785,292.243 L250.242,327.785 L246,327.785 L285.785,288 Z M258.0002,327.7854 L285.7852,299.9994 L285.7852,304.2424 L262.2422,327.7854 L258.0002,327.7854 Z M269.9999,327.7854 L285.7849,312.0004 L285.7849,316.2424 L274.2419,327.7854 L269.9999,327.7854 Z M281.9996,327.7854 L285.7846,324.0004 L285.7846,327.7854 L281.9996,327.7854 Z" id="corner-lines"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

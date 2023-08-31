@@ -1,0 +1,49 @@
+#gdpr-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #08344c;
+  color: #fff;
+  padding: 10px;
+  z-index: 9999; /* Imposta un valore elevato per mettere l'avviso in primo piano */
+}
+
+#gdpr-banner .container {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#gdpr-banner p {
+  margin: 0;
+}
+
+#gdpr-banner button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+#gdpr-banner button:hover {
+  background-color: #0056b3;
+}
+
+/* Stili per la versione responsive */
+@media screen and (max-width: 600px) {
+  #gdpr-banner .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  #gdpr-banner button {
+    margin-top: 10px;
+  }
+}
